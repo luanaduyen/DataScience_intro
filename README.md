@@ -1,3 +1,6 @@
-# [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
+# Introdução à Ciência de Dados
 
-Studying the content and codes from the book.
+Repositório da disciplina do curso de Ciência de Dados da [Univesp](https://univesp.br)
+
+## [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) por Jake VanderPlas
+
